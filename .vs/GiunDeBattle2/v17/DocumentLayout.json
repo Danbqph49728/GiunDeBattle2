@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\assets\\scripts\\startingcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startingcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\assets\\scripts\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\assets\\scripts\\snakemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snakemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\assets\\scripts\\scorescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scorescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\assets\\scripts\\previousposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\previousposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\assets\\scripts\\camerasetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerasetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|g:\\fpt polytechnic\\gam3d\\giundebattle2\\assets\\scripts\\endingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\assets\\scripts\\timerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\assets\\scripts\\chatmng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chatmng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\assets\\scripts\\chatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\assets\\scripts\\gemspawning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gemspawning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\assets\\scripts\\gamestates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DFDB5-89AB-81E9-CBEF-9A3A8FC646BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerSpawner.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\PlayerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSpawner.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\PlayerSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSpawner.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:40:41.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartingCanvas.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\StartingCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartingCanvas.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\StartingCanvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartingCanvas.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:49:00.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EndingScript.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\EndingScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndingScript.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\EndingScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndingScript.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:59:43.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreScript.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\ScoreScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreScript.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\ScoreScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:10:25.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SnakeMovement.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\SnakeMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SnakeMovement.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\SnakeMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SnakeMovement.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAUwLYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:29:01.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GemSpawning.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\GemSpawning.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GemSpawning.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\GemSpawning.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GemSpawning.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:10:45.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimerScript.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\TimerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimerScript.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\TimerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimerScript.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:14:05.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatUI.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\ChatUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChatUI.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\ChatUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChatUI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:25:04.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatMng.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\ChatMng.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChatMng.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\ChatMng.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChatMng.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:24:39.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerSetup.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\PlayerSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSetup.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\PlayerSetup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSetup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:45:30.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameStates.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\GameStates.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameStates.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\GameStates.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameStates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:42:05.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraSetup.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\CameraSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraSetup.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\CameraSetup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraSetup.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:48:56.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PreviousPosition.cs",
+              "DocumentMoniker": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\PreviousPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PreviousPosition.cs",
+              "ToolTip": "G:\\FPT Polytechnic\\GAM3D\\GiunDeBattle2\\Assets\\Scripts\\PreviousPosition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PreviousPosition.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:01:01.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
